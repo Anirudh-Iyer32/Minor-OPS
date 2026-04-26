@@ -27,5 +27,5 @@ __pycache__/
 *.pkl
 *.joblib
 
-# Data (handled by DVC)
-data/
+Data/*
+!Data/*.dvc
