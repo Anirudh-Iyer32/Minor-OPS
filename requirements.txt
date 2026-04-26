@@ -1,0 +1,29 @@
+pandas
+numpy
+scikit-learn
+
+# Visualization (for notebook experiments)
+matplotlib
+seaborn
+
+# MLOps
+dvc
+mlflow
+
+# API (later)
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+joblib
+
+ipykernel
+
+
+
+lightgbm
+
+imbalanced-learn
+
+python-multipart
